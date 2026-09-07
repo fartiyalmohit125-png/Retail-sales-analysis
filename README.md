@@ -51,31 +51,11 @@ The Power BI dashboard has two pages:
 
 ### Page 1 – Executive Overview
 
-![Page 1 Dashboard](Page-1-Dashboard.png)
-
-- Total Sales
-- Total Profit
-- Total Orders
-- Total Customers
-- Sales & Profit by Category
-- Monthly Sales & Profit Trend
-- Sales by State
-- Sales by Payment Mode
-- Top 10 Products by Sales
-- Top 10 Customers by Sales
+[Page 1 Dashboard](Page-1-Dashboard.png)
 
 ### Page 2 – Detailed Analysis
 
-![Page 2 Dashboard](Page-2-Dashboard.png)
-
-- Average Order Value
-- Profit Margin
-- Sales per Customer
-- Monthly Order Trend
-- Sales by Gender
-- Sales by Sub-Category
-- Top 10 Cities by Sales
-- Profit by Sub-Category
+[Page 2 Dashboard](Page-2-Dashboard.png)
 
 ## DAX Measures
 
