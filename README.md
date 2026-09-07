@@ -51,11 +51,11 @@ The Power BI dashboard has two pages:
 
 ### Page 1 – Executive Overview
 
-[Page 1 Dashboard](Page-1-Dashboard(1).png)
+[Page 1 Dashboard](Page1.png)
 
 ### Page 2 – Detailed Analysis
 
-[Page 2 Dashboard](Page-2-Dashboard(2).png)
+[Page 2 Dashboard](Page2.png)
 
 ## DAX Measures
 
