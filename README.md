@@ -45,10 +45,39 @@ The dashboard was created in Power BI using KPI cards, charts, filters, and DAX 
 - Customer Analysis
 - Product Performance
 
-- ## Dashboard
+## Dashboard
 
 The Power BI dashboard has two pages:
 
+### Page 1
+
+[Page 1 Dashboard](Dashboard(1).png)
+
+- Total Sales
+- Total Orders
+- Total Profit
+- Total Customers
+- Sales & Profit by Category
+- Monthly Sales & Profit
+- Sales & Profit by City
+- Sales by Payment Mode
+- Top 10 Products by Sales
+- Top 10 Customers by Sales
+
+### Page 2
+
+[Page 2 Dashboard](Dashboard(2).png)
+
+- Average Order Value
+- Profit Margin
+- Sales per Customer
+- Monthly Order
+- Sales by Gender
+- Sales by Sub-Category
+- Top 10 Cities by Sales
+- Top 10 Cities by Profit
+- Top 10 Cities by Order
+- 
 ## DAX Measures
 
 - Total Sales
